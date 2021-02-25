@@ -1,6 +1,7 @@
 # Hey What's up 👋
 
-[whatsup](https://i.pinimg.com/originals/ef/c7/30/efc7302cd3ae148e06450039ffd2b4f2.gif)
+![whatsup]
+(https://i.pinimg.com/originals/ef/c7/30/efc7302cd3ae148e06450039ffd2b4f2.gif)
 
  ##🔭 I’m currently working on:
  
