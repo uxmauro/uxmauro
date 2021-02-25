@@ -11,7 +11,7 @@
  - Javascript and playing around with React and React Native.
  
  ## 📫 How to reach me: 
-  [email](uxmauro@gmail.com)
+  [Email](uxmauro@gmail.com)
   
  ## ⚡ Fun fact: 
  
