@@ -5,13 +5,13 @@
  ## 🔭 I’m currently working on:
  
  Product ideas using no-code platforms like Webflow.
- You can check out some of my work on my [Portfolio][https://uxmauro.webflow.io]
+ You can check out some of my work on my [Portfolio](https://uxmauro.webflow.io)
   
  ## 🌱 I’m currently learning:
  - Javascript and playing around with React and React Native.
  
  ## 📫 How to reach me: 
-  [email][uxmauro@gmail.com]
+  [email](uxmauro@gmail.com)
   
  ## ⚡ Fun fact: 
  
