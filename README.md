@@ -15,7 +15,7 @@
   
  ## ⚡ Fun fact: 
  
- 🎧   I'm a big old school hip-hop fan, that and I also work all the time listening to chill-hop/lofi. 
+ 🚗 I have driven across the country twice and have swam with sharks 🦈
 
 
 <!--
