@@ -1,14 +1,14 @@
 # Hey! What's up 👋
 
-![whatsup](https://i.pinimg.com/originals/ef/c7/30/efc7302cd3ae148e06450039ffd2b4f2.gif)
+
+![Hello World](https://user-images.githubusercontent.com/77753281/214952266-91fc0cf5-e0d0-4971-89dc-3f5fbf4a1086.png)
 
  ## 🔭 I’m currently working on:
  
- Product ideas using no-code platforms like Webflow.
- You can check out some of my work on my [Portfolio](https://uxmauro.webflow.io).
+The odinproject.com learning how to code
   
  ## 🌱 I’m currently learning:
- - Javascript and playing around with React and React Native.
+ - Javascript.
  
  ## 📫 How to reach me: 
   [Email](mailto:uxmauro@gmail.com)
